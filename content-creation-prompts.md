@@ -1,0 +1,27 @@
+# Content Creation Prompts
+
+**Short-Form Content:** "You are an expert in copywriting, social media, and short-form content. Generate 3 social media posts for each major platform on the topic of [Insert Topic]. Use a maximum of 300 characters. Make the posts engaging and unique, while ensuring they are easy to understand. Don't include hashtags or emoijs. Make the responses sound realistic."
+
+**Content Strategy & Calendar:** "You are an expert in content strategy. Given my niche ([Insert Niche]) and target platforms (e.g., LinkedIn, YouTube, blog), build a simple monthly content calendar. Include dates, content formats (video, blog, short post), brief topic descriptions, and the main goal of each piece. Make sure the topics flow logically and stay relevant to my audience."
+
+**Long-Form Content:** "You are an expert in copywriting, SEO, and writing long-form content. Write me an SEO-optimized blog post targeting the keyword [insert keyword]. First, create an outline. In the blog post use H2s and H3s, use a serious writing tone, use a minimum of 1,000 words, provide 5 FAQs, and make the article sound like it was written by a human."
+
+**Email Newsletter:** "You are an email marketing pro. I have a weekly newsletter called [Insert Name] that focuses on [Insert Niche/Theme]. Please draft an engaging newsletter template that includes: A catchy subject line under 50 characters, A short introduction paragraph with a friendly, human tone, One main article or story excerpt (3–5 sentences), A call-to-action link at the end pointing readers to my latest content. Keep it conversational and easy to read so subscribers feel connected and informed."
+
+**Influencer Outreach Email:** "You are an influencer marketing expert. Draft an email outreach template for contacting micro-influencers in [Insert Niche]. Keep it concise, highlight mutual benefits, and be sure to suggest one or two specific ideas for collaboration (e.g., sponsored post, product review). Maintain a friendly, but professional tone."
+
+**Repurposing YouTube Videos (Basic):** "I need you to be an expert in content creation, marketing, and repurposing content. If I provide the target keyword and a transcript for one of my YouTube videos, can you repurpose that video into the following: 1,000 word SEO-optimized blog post, 3 social media posts for LinkedIn and X (Twitter), a concise, yet helpful email for my weekly newsletter."
+
+**Repurposing YouTube Videos (Advanced):** "I need you to be an expert in content creation, marketing, and repurposing content. If I provide a transcript for a YouTube video, can you repurpose that video into an SEO-optimized blog post? In the blog post, please follow the provided guidelines:
+
+Use a writing tone that is a blend of seriousness and empathy; this should sound like it was written by a human, Write at an 8th grade reading level that's understandable to the average person, Add a "Key Takeaways" as the first H2 with 3 bullet points summarizing the most important points of this blog post, Use between 1,000-1,200 words in total, Conclude with a brief summary, Organize the blog post into logical sections with clear H2 and H3 headings, Use proper Markdown syntax for H2 and H3 headings, Include relevant statistics, examples, or quotes from the video to support key points, Incorporate secondary keywords naturally throughout the text, Create a meta description of about 155 characters that summarizes the post and includes the primary keyword, Create an SEO title of about 55 characters that includes the primary keyword and sounds enticing, Do not use a lot of numbers or bullet points in your outputs."
+
+**Podcast Show Notes:** "You are an expert in content repurposing. If I provide a transcript of my podcast episode, please create detailed show notes and time-stamped highlights. Emphasize the main topics, guest introductions (if any), and a brief summary of each segment. Then craft a short paragraph suitable for a blog post introduction, plus a concise social media teaser. Keep the language clear and audience-focused."
+
+**Content Distribution Strategist:** "You are an expert in content distribution and marketing strategy. I have a new [video/podcast/blog post] about [Insert Topic]. Suggest five ways to repurpose or distribute it across different platforms (e.g., LinkedIn, Twitter, email list, or short video clips), each with a short rationale. Focus on quick actions I can do without a large budget."
+
+**Content-Driven Lead Magnet:** "You're a content marketing expert. I want to develop a lead magnet (like an eBook or PDF guide) aimed at attracting [Insert Target Audience]. Draft a short outline for the lead magnet, including a title, 3–5 main sections, and a clear pitch at the end for my main offering. Suggest one distribution channel to get the word out."
+
+**Brand Messaging Framework:** "You're a brand strategist. I have a product/service in [Insert Industry]. Define a core brand message with a unique value proposition, a brand promise, and three supporting proof points. Make it memorable, but keep the language easy for any consumer to understand."
+
+**Testimonials & Case Studies:** "You're skilled in case study and testimonial writing. Help me gather compelling stories from my past clients in [Insert Field]. Provide 5 prompts or questions I can send to these clients that will extract real-world successes, measurable results, and candid insights. Each question should lead to short, impactful anecdotes that highlight my service's impact without sounding forced."

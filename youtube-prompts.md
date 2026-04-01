@@ -1,0 +1,33 @@
+# YouTube Prompts
+
+**YouTube Video Ideation:** "You are an expert in YouTube, content marketing, and ideation. I have a YouTube channel focused on [Insert Niche] and need your help. What are some video ideas that an audience interested in [Insert Niche] would find valuable and be willing to share or subscribe to my channel? Search for competitors in my niche and for the type of videos think listicles, reviews, 'best ofs,' tutorials, comparisons, etc. Provide a table of 10 video ideas with a Title, Target Keyword, and 1 sentence hook. Also include estimated search volume on YouTube for the target keyword."
+
+**YouTube Video Ideation (Advanced):**
+
+- Visit Answer the Public and enter a target keyword
+- Upload the flywheel image into ChatGPT
+- Prompt ChatGPT with: "I want you to help me find useful topic ideas for my YouTube videos. For context on me, my business, and the type of content I produce, here's more background info: [Insert YouTube Channel Info]. I've attached an image of a wheel which includes the most searched for questions about [Insert Main Topic]. Based on this attached image, I want you to come up with 10 useful content ideas based on these questions on the wheel. Never use colons, semicolons, or hashtags."
+
+**YouTube Niche Selection:** "You are an expert in YouTube and business. Based on what you know about me, my interests, and expertise, provide 5 niche ideas that logically match those strengths. Create a markdown table with the columns Niche, Passion Fit, Audience Buying Power, Search Demand, Competition, Monetization Paths, Evergreen, Video Format Fit, Barrier to Entry, Brand Alignment, Content Longevity, and Total. Score every factor from 1 to 10, where 10 is best, add a Total column, sort the table from highest to lowest Total, and bold the top three rows. For each of the top three niches write about one hundred words explaining why it ranked well, list three example video titles that could each earn at least ten-thousand views within three months, and name two realistic revenue streams I could launch in the first six months. Finish with one sentence suggesting the first step I should take this week to validate the highest-ranked niche, such as a keyword test, community poll, or minimal viable product. Keep the language clear, direct, and jargon-free."
+
+**YouTube Video Scripts:** "Write a YouTube or podcast script that runs around [Insert Time Length]. Use a conversational but authoritative tone that blends expertise with real-world experience. The content should be engaging, practical, and easy to understand for marketers, entrepreneurs, or business owners who may not be tech-savvy. Avoid buzzwords or corporate jargon. Focus on providing real value through actionable insights, relatable stories, and tool recommendations.
+
+**YouTube Titles:** "You are a YouTube SEO and copywriting specialist known for crafting high‑CTR titles. Improve this working title: [Insert Existing Title] for the audience [Insert Audience] while targeting the keyword [Insert Keyword]. Provide five options (≤ 55 characters each) that front‑load the keyword, spark curiosity, and fit naturally with the video's content. After each title, add a one‑sentence rationale explaining why viewers would be more likely to click."
+
+**YouTube Thumbnail:** "Create a visually striking image suitable for a YouTube thumbnail featuring the white, centered text 'INSERT TEXT' over a background that symbolizes [Insert Topic]. The color scheme should be related to my topic and branding, with additional vibrant colors and dynamic lighting to create a dynamic and engaging design. The background should include abstract digital elements, circuit patterns, suggesting a theme of [Insert Topic]. The design should be suitable for a blog post header, with an aspect ratio of 16:9 and dimensions of 1280×720 pixels."
+
+**YouTube Thumbnail (Face Swap):** "Replace the face in the thumbnail with my face as exact as possible. Swap the logo with the [Insert Logo] I've attached and change the background color to [Insert Background Color]. Also change the text to [Insert New Text]. Keep the original aspect ratio of the thumbnail 1920x1080."
+
+**YouTube Opt In Guide:** "Based on my YouTube Channel [Insert Channel URL] help me create a free opt in guide that I can use to collect emails. Make sure the opt in guide is relevant to my niche/audience and also valuable enough for someone to provide their email. This could be a checklist, cheat sheet, my best best tools, etc."
+
+**YouTube Video Hooks:** "You are an expert in YouTube, content creation, and marketing. I need help with a catchy hook for my YouTube Video. The title is going to be [Insert Title] Make the hook concise and entice someone to stick around for the entire video."
+
+**YouTube Timestamps:** "You are a YouTube chapter specialist. Using my transcript, produce 5-10 chapter markers. List each as mm:ss – Chapter Title, keeping titles to six words or fewer and making sure each timestamp reflects a natural topic shift. Order them chronologically, avoid repeated wording, and keep the language clear and engaging so viewers can quickly jump to the section they want."
+
+**YouTube Descriptions, Tags, and Hashtags:** "You are a YouTube SEO copywriter and metadata strategist. Using the video title [Insert Title] and the target keyword [Insert Primary Keyword], write a two‑sentence description that begins with the keyword, explains the video's benefit, and ends with a call‑to‑action; then list up to 25 tags (total length no more than 500 characters) that mix broad and long‑tail phrases relevant to the topic; finally supply three concise hashtags. Return the output under the headings DESCRIPTION, TAGS, and HASHTAGS."
+
+**End Screen & Comment CTA Generator:** "You are a conversion‑focused copywriter. Write one end‑screen line that nudges viewers to watch [Insert Playlist or Next Video] and a pinned comment (≤40 words) that thanks viewers, invites a question, and links to [Insert Resource or Signup]."
+
+**Repurposing YouTube Videos:** "I need you to be an expert in content creation, marketing, and repurposing content. If I provide the target keyword and a transcript for one of my YouTube videos, can you repurpose that video into the following: 1,000 word SEO-optimized blog post, 3 social media posts I can use for LinkedIn and X (Twitter), and a concise, yet helpful email for my weekly newsletter."
+
+**Short-Form Repurposing Content:** "You are a content repurposing expert. Turn this long‑form script or transcript [Paste Text] into three YouTube Shorts ideas under 60 seconds each. For every Short deliver: hook line, one‑sentence value statement, quick outline, up to 40‑character caption, and any on‑screen text cues."
