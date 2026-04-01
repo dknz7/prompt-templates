@@ -81,7 +81,6 @@ Prompts for setting up AI assistants, second brains, and personal systems.
 | File | What It Does |
 |------|-------------|
 | [executive-assistant-prompt.md](executive-assistant-prompt.md) | Turn a project folder into a second brain — Claude scaffolds the structure |
-| [lifeos-eda-deploy-v1.md](lifeos-eda-deploy-v1.md) | LifeOS personal assistant deployment setup for Windows |
 
 ---
 
